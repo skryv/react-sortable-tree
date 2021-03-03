@@ -68,14 +68,13 @@
     "@skryv/frontend-collective-react-dnd-scrollzone": "^1.0.1",
     "lodash.isequal": "^4.5.0",
     "prop-types": "^15.7.2",
-    "react-dnd": "*",
-    "react-dnd-html5-backend": "^12.1.1",
     "react-lifecycles-compat": "^3.0.4",
     "react-virtualized": "^9.22.3"
   },
   "peerDependencies": {
     "react": "*",
     "react-dnd": "*",
+    "react-dnd-html5-backend": "*",
     "react-dom": "*"
   },
   "devDependencies": {
